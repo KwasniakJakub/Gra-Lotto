@@ -19,7 +19,7 @@ Projekt "Gra Lotto" to aplikacja konsolowa, która umożliwia użytkownikom symu
 
 ## Uruchamianie
 
-1. Sklonuj repozytorium: `git clone https://github.com/twoja-nazwa-uzytkownika/GraLotto.git`
+1. Sklonuj repozytorium: `git clone https://github.com/KwasniakJakub/Gra-Lotto`
 2. Otwórz projekt w Visual Studio lub innym edytorze obsługującym C#.
 3. Skompiluj i uruchom aplikację.
 
